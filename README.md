@@ -5,3 +5,4 @@
 ###环境搭建
 
  - node_module(.gitignore)
+ - webpack编译：src->dist 
